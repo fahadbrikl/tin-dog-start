@@ -1,2 +1,1 @@
-# tin-dog-start
-Web Dev Course
+TinDog Starting Files
